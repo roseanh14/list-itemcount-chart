@@ -1,0 +1,16 @@
+[
+    {
+        "id" : 0,
+        "listName": "Shopping list 0",
+        "listItems": [
+            {
+                "itemName":"Chocolate",
+                "quantity": "2",
+                "units":"pcs",
+                "checked":false
+            }
+        ]
+
+
+    }
+]
